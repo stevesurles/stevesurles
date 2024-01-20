@@ -1,6 +1,6 @@
 <picture> <img align="center" src="./images/banner.png?raw=true" width = 100%></picture>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=25&center=true&vCenter=true&width=600&height=100&lines=AWS+Certified+Solutions+Architect;Bloomberg+INDG+Web+Application+Architect;Full+Stack+Developer/Tech+Lead/Architect;Specializing+in+AWS+Serverless+Architecture;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&height=100&lines=AWS+Certified+Solutions+Architect;Bloomberg+INDG+Web+Application+Architect;Full+Stack+Developer/Tech+Lead/Architect;Specializing+in+AWS+Serverless+Architecture;">
 </p>
 
 <div style="display: flex">
