@@ -15,7 +15,7 @@ Full stack engineer and architect with 20+ years of experience designing and dev
 </p>
 </div>
 
-div>
+<div>
 <picture> <img align="right" src="./images/programmer.gif?raw=true" width = 250px></picture>
 </div>
 <!--
