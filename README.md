@@ -8,9 +8,9 @@ Full stack engineer and architect with 20+ years of experience designing and dev
 </p>
 
 <br>
-## <picture><img src = "https://github.com/stevesurles/stevesurles/tree/main/images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "./images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/stevesurles/stevesurles/tree/main/images/programmer.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="./images/programmer.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
