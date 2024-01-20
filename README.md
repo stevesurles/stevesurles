@@ -7,9 +7,6 @@
 Full stack engineer and architect with 20+ years of experience designing and developing web-based solutions. I have a proven track record of delivering high-quality, scalable, secure solutions utilizing AWS Serverless Architecture. I enjoy working with product owners and software engineers to create innovative cloud solutions that meet our customer's business needs and expectations.
 </p>
 
-<br>
-## <picture><img src = "./images/about_me.gif?raw=true" width = 50px></picture> About me
-
 <picture> <img align="right" src="./images/programmer.gif?raw=true" width = 250px></picture>
 
 <br><br>
