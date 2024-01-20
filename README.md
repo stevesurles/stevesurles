@@ -1,4 +1,4 @@
-<picture> <img align="center" src="https://github.com/stevesurles/stevesurles/blob/main/images/banner.gif?raw=true" width = 100%></picture>
+<picture> <img align="center" src="./images/banner.gif?raw=true" width = 100%></picture>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=AWS+Certified+Solutions+Architect;Bloomberg+INDG+Web+Application+Architect;Full+Stack+Developer/Tech+Lead/Architect;Specializing+in+AWS+Serverless+Architecture;">
 </p>
