@@ -1,4 +1,4 @@
-<h1 align="center">Steve Surles</h1>
+<picture> <img align="center" src="https://github.com/stevesurles/stevesurles/blob/main/images/banner.gif?raw=true" width = 100%></picture>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=AWS+Certified+Solutions+Architect;Bloomberg+INDG+Web+Application+Architect;Full+Stack+Developer/Tech+Lead/Architect;Specializing+in+AWS+Serverless+Architecture;"></a>
 </p>
@@ -8,15 +8,11 @@ Full stack engineer and architect with 20+ years of experience designing and dev
 </p>
 
 <br>
-## <picture><img src = "https://github.com/stevesurles/stevesurles/tree/main/images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/stevesurles/stevesurles/blob/main/images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/stevesurles/stevesurles/tree/main/images/programmer.gif?raw=true" width = 250px></picture>
-
-<br><br>
+<picture> <img align="right" src="https://github.com/stevesurles/stevesurles/blob/main/images/programmer.gif?raw=true" width = 250px></picture>
 
 <br>
-
-<picture> <img align="right" src="/Images/programmer.gif?raw=true" width = 250px></picture>
 <!--
 **stevesurles/stevesurles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
