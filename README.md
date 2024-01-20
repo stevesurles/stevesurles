@@ -1,9 +1,10 @@
+<head>
 <style>
   #main div {
     display: flex;
   }
 </style>
-
+</head>
 <h1 align="center">Steve Surles</h1>
 
 <p align="center">
