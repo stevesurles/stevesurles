@@ -6,7 +6,7 @@
 
 <div style="display: flex">
   <div>
-    <p align="left" style="display:flex">
+    <p align="left">
     Full stack engineer and architect with 20+ years of experience designing and developing web-based solutions. I have a proven track record of delivering high-quality, scalable, secure solutions utilizing AWS Serverless Architecture. I enjoy working with product owners and software engineers to create innovative cloud solutions that meet our customer's business needs and expectations.
     </p>
   </div>
